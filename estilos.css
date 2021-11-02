@@ -1,0 +1,13 @@
+.imagenes{
+    margin: 0 auto;
+    width: 200px;
+}
+
+.bloque{
+    background-image: url('img/libros.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    box-shadow: 10px 6px 100px rgb(0,0,0);
+}
