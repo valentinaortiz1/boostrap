@@ -1,4 +1,20 @@
 .imagen{
     height: 500px;
     width: 500px;
+    margin-top: 30px;
+}
+body{
+    background: linear-gradient(90deg, rgba(255,253,253,0.7805322812718838) 19%, rgba(196,191,191,0.6712885837928921) 54%, rgba(215,207,207,0.3491597322522759) 81%);
+}
+.accordion-item{
+    background-color: rgb(255, 255, 255);
+}
+.accordion-button{
+    background-color: rgb(221, 17, 17);
+  
+}
+.navbar{
+    background-image: url(https://www.expedientepolitico.com.ar/wp-content/uploads/2019/12/river.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
