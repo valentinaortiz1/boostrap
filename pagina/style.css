@@ -18,3 +18,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.titulo{
+    font-size: 36px;
+    font-family:  'Bebas Neue', cursive;
+    color: rgb(255, 255, 255);
+}
